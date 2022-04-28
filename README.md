@@ -1,4 +1,4 @@
-# shrinkage_prior_for_multiGGMs
+# scalable_multiGGMs
 ## Author: Elin Shaddox
 
 The Matlab files provided for Bayesian inference of multiple graphical models are associated with the following publication:
